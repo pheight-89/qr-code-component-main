@@ -37,12 +37,14 @@ h1 {
   text-align: center;
   font-size: 1.35rem;
   font-weight: var(--ff-bold);
+  color: var(--clr-primary-dark);
   line-height: 1.1;
 }
 
 p {
   margin-inline: 1rem;
   text-align: center;
+  color: var(--clr-primaary;
 }
 
 .attribution {
